@@ -1,3 +1,5 @@
 spring:
   application:
     name: downstream-service
+server:
+  port: 8080
